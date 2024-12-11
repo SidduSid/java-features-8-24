@@ -1,4 +1,8 @@
-package java.versions.features;
+/*
+ * Copyright (c) 2024.  All rights are reserved
+ */
+
+package versions.features;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
